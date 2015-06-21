@@ -14,7 +14,7 @@ The number of the test subject.
 **All Other Columns:**
 
 These columns include the following:
-
+<pre>
 "tBodyAccmeanX", "tBodyAccmeanY", 
 "tBodyAccmeanZ", 
 "tGravityAccmeanX", 
@@ -79,7 +79,7 @@ These columns include the following:
 "fBodyAccMagstd", 
 "fBodyBodyAccJerkMagstd", 
 "fBodyBodyGyroMagstd", 
-"fBodyBodyGyroJerkMagstd"
+"fBodyBodyGyroJerkMagstd" </pre>
 
 For all of the variables listed above, the average value of the variable for the given activity and test subject was calculated using the mean() function in R across a body of data gathered by Jorge L. Reyes-Ortiz, Alessandro Ghio, Luca Oneto, and Davide Anguita.  Because it is a calculated mean, the entries each retain the original units of the measurements they are averaging, whether from the time or frequency domain.
 
