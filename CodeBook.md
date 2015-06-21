@@ -1,5 +1,5 @@
 ---
-title: "Getting and Cleaning Data: Class Project Codebook", "some"
+title: "Getting and Cleaning Data: Class Project Codebook"
 output: html_document
 ---
 
