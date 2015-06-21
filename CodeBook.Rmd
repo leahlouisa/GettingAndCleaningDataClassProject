@@ -15,7 +15,7 @@ The number of the test subject.
 
 These columns include the following:
 
-<TABLE>
+<TABLE BORDER="3">
 "tBodyAccmeanX", "tBodyAccmeanY", 
 "tBodyAccmeanZ", 
 "tGravityAccmeanX", 
